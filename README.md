@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mubeenk-git
+- 👋 Hi, I’m Mubeen Khan 
 - 👀 I’m interested in Web Development, Web Designing, Machine Learning and Cybersecurity.
 - 🌱 I’m currently learning Web Designing and Web Development. 
 - 💞️ I’m looking to collaborate on Open Source projects.
