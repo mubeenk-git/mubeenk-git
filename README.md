@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mubeen Khan 
-- 👀 I’m interested in Web Development, Web Designing, Machine Learning and Cybersecurity.
-- 🌱 I’m currently learning Web Designing and Web Development. 
+- 🌱 I’m currently a Front-end Developer. 
+- 👀 I’m interested in Web Development, Machine Learning and Cybersecurity.
 - 💞️ I’m looking to collaborate on Open Source projects.
 - 📫 You can drop me an email : mubeenk710@gmail.com
 
